@@ -1,0 +1,16 @@
+partner_id,daily_capacity,on_time_percent,cost_per_package,tier
+Partner_01,2929,89.1,1.15,Tier 1
+Partner_02,2724,96.75,1.07,Tier 1
+Partner_03,2754,98.65,0.65,Tier 1
+Partner_04,1000,90.22,0.7,Tier 2
+Partner_05,1703,93.91,1.09,Tier 1
+Partner_06,682,92.45,0.6,Tier 2
+Partner_07,1728,88.87,1.69,Tier 3
+Partner_08,1561,98.95,0.78,Tier 1
+Partner_09,2486,96.24,1.69,Tier 3
+Partner_10,2097,96.46,1.78,Tier 3
+Partner_11,785,97.43,0.94,Tier 2
+Partner_12,2123,89.0,1.45,Tier 3
+Partner_13,2816,92.68,0.87,Tier 1
+Partner_14,1921,94.26,1.42,Tier 3
+Partner_15,1086,97.08,1.83,Tier 3
